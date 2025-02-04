@@ -1,2 +1,2 @@
 # EDES301
-Repository for EDES301 course work
+This is my repository for EDES301 course work
